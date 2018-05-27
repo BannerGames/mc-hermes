@@ -1,7 +1,7 @@
 const pc = require('./lib/pc/ping');
 const pe = require('./lib/pe/ping');
 
-const PE_ALIASES = ['pe', 'pocket', 'bedrock', 'mco'];
+const PE_ALIASES = ['pe', 'pocket', 'bedrock', 'mco', 'mcpe'];
 
 /**
  * Ping a PC or PE server and return the result as an object.
